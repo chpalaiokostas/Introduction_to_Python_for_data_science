@@ -1,4 +1,8 @@
-# Introduction_to_Python_for_data_science
+# Introduction to Python for data science
+
+## Course home page
+
+https://www.slu.se/en/education/programmes-courses/course/PVG0045/0/Introduction-to-Python-for-data-science/
 
 ## Course outline
 
