@@ -6,7 +6,7 @@ https://www.slu.se/en/education/programmes-courses/course/PVG0045/0/Introduction
 
 ## Course outline
 
-Day 1
+### Day 1
 
 Course introduction – Jupyter notebooks - Python crash course
 
@@ -19,7 +19,7 @@ Exercises (hands-on)
 Exercise solutions
 
  
-Day 2
+### Day 2
 
 Review of day 1 material
 
@@ -32,7 +32,7 @@ Exercises (hands-on)
 Exercise solutions
 
  
-Day 3
+### Day 3
 
 Review of day 2 material
 
@@ -45,7 +45,7 @@ Exercises (hands-on)
 Exercise solutions
 
 
-Day 4
+### Day 4
 
 Review of day 3 material
 
@@ -58,7 +58,7 @@ Exercises (hands-on)
 Exercise solutions
 
  
-Day 5
+### Day 5
 
 Review of day 4 material
 
