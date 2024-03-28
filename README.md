@@ -9,8 +9,8 @@ https://www.slu.se/en/education/programmes-courses/course/PVG0045/0/Introduction
 To get the most out of the course you will need to have installed:
 
 * Python v3.6 or above at your system
-* Have installed numpy, pandas, matplotlib and seaborn
-* Have installed Jupyter Notebook
+* The packages numpy, pandas, matplotlib and seaborn
+* Jupyter Notebook
  
 The easiest way is to install Anaconda as it comes with all the modules we will use in the course and with Jupyter Notebook.
 
